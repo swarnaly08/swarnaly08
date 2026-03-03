@@ -52,7 +52,8 @@ I am focused on **web development** and building responsive, scalable, and user-
 ## Coding Achievements (:contentReference[oaicite:0]{index=0})
 
 - Python: 5-Star Badge  
-- C: 4-Star Badge  
+- C: 4-Star Badge
+- SQL: 1-Star Badge
 - Actively practicing problem solving and working towards higher ratings and additional badges  
 
 HackerRank Profile:  
