@@ -88,7 +88,7 @@ An educational budget management website designed to help users understand budge
 - JavaScript logic building  
 - UI/UX structuring  
 - Form handling  
-
+ 
 ---
 
 ### ProShop – E-commerce Web Application
@@ -136,4 +136,4 @@ ProShop is a responsive single-page e-commerce web application developed using R
 
 ---
 
-This repository reflects my learning journey, projects, and continuous growth as a developer.
+This repository reflects my learning journey, projects, and the continuous growth as a developer.
