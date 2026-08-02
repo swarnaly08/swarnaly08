@@ -1,6 +1,6 @@
 # Swarnaly Roy
 
-### BCA 3rd Year Student | Web Development Enthusiast | Frontend & React Developer
+### BCA Final Year Student | Web Development Enthusiast | Frontend & React Developer
 
 I am **Swarnaly Roy**, currently pursuing **Bachelor of Computer Applications (BCA), 3rd Year** from **Narula Institute of Technology**.  
 I am focused on **web development** and building responsive, scalable, and user-friendly web applications using modern frontend and backend technologies.
@@ -9,7 +9,7 @@ I am focused on **web development** and building responsive, scalable, and user-
 
 ## About Me
 
-- BCA 3rd year undergraduate student  
+- BCA Final year undergraduate student  
 - Strong interest in web development  
 - Proficient in Python  
 - Frontend developer with hands-on project experience  
