@@ -54,7 +54,7 @@ I am focused on **web development** and building responsive, scalable, and user-
 - Python : 5-Star Badge  
 - C : 4-Star Badge
 - SQL : 4-Star Badge
-- Java : 4-Star Badge
+- Java : 5-Star Badge
 - Actively practicing problem solving and working towards higher ratings and additional badges  
 
 HackerRank Profile:  
