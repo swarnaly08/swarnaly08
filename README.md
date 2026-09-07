@@ -2,7 +2,7 @@
 
 ### BCA Final Year Student | Web Development Enthusiast | Frontend & React Developer
 
-I am **Swarnaly Roy**, currently pursuing **Bachelor of Computer Applications (BCA), 3rd Year** from **Narula Institute of Technology**.  
+I am **Swarnaly Roy**, currently pursuing **Bachelor of Computer Applications (BCA), Final Year** from **Narula Institute of Technology**.  
 I am focused on **web development** and building responsive, scalable, and user-friendly web applications using modern frontend and backend technologies.
 
 ---
@@ -32,11 +32,8 @@ I am focused on **web development** and building responsive, scalable, and user-
 - React  
 
 ### Backend & Databases
-- Node.js  
-- Express.js  
-- MySQL  
-- MongoDB  
-
+- MySQL
+  
 ---
 
 # Tech Stack:
